@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Tiny Line Art • Cheek Dots",
+    "image": "https://picsum.photos/seed/lineart/200/200",
+    "text": "Create a clean, minimalist profile portrait in a consistent, icon-like style: bold black outline; grey flat fills matched to the input; subtle red/pink cheek dots and lip hints; hair drawn with lines or dots to show direction; minimal nose/ears lines; simple pale gray or white background; keep original pose and identity; no text or watermark."
+  },
+  {
+    "title": "Mono Ink • Heavy Outline",
+    "image": "https://picsum.photos/seed/ink/200/200",
+    "text": "High-contrast monochrome ink portrait with a medium-heavy outline, sparse hatch shading, and simplified facial features. Preserve hairstyle flow with directional strokes. Grey clothing tones should match original lightness. Background very light grey. No color except gentle lip/cheek accents."
+  },
+  {
+    "title": "Flat Icon • Soft Shading",
+    "image": "https://picsum.photos/seed/flat/200/200",
+    "text": "Flat, icon-like portrait with restrained soft greys for clothing/hair, crisp black contour lines, and minimal internal detail. Add very subtle blush dots and lip tint. Maintain head/shoulder framing and original head angle. Background clean and pale; no noise or text."
+  }
+]
+
