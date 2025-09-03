@@ -1,33 +1,38 @@
 [
-  {
-    "title": "Disney",
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/disney.jpeg",
-    "text": "Disney animated cartoon style, vibrant and colorful, clean vector art illustration with smooth gradients, character design reminiscent of classic Disney animation from the 1990s-2000s era, soft rounded features, expressive large eyes, warm lighting, magical atmosphere, hand-drawn animation aesthetic with modern digital polish, bright saturated colors, whimsical and family-friendly, studio quality animation style"
-  },
-  {
-    "title": "Southpark",
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/southpark.jpeg",
-    "text": "South Park cartoon style character, round head with dot eyes and simple line smile, construction paper cutout aesthetic, flat 2D animation style, bright primary colors with black outlines, no shadows or gradients, comedic cartoon design, simple geometric shapes"
-  },
-   {
-    "title": "Vaporwave",
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/vaporwave.jpeg",
-    "text": "Portrait in vaporwave synthwave style, 1980s retrofuturistic aesthetic, purple and pink neon lighting, soft dreamy atmosphere, nostalgic 80s color grading, smooth gradient backgrounds, synthwave color palette, retro film look with soft glows"
-  },
-   {
-    "title": "Art Deco",
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/artdeco.jpeg",
-    "text": "Portrait in Art Deco travel poster style, 1920s-1930s vintage advertising aesthetic, bold geometric background patterns, streamlined elegant composition, rich jewel tone color palette, stylized illustration treatment with clean angular lines, luxurious golden age poster design, sophisticated vintage travel advertisement. No text or letters "
-  },
-   {
-    "title": "Propaganda",
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/soviet.jpeg",
-    "text": "Portrait in Soviet propaganda poster style, bold revolutionary aesthetic, strong dramatic lighting with high contrast, heroic composition, vintage communist propaganda art style, powerful graphic design with striking colors, socialist realist influence, 1940s-1960s USSR poster aesthetic, inspiring and monumental feel"
-  },
-  {
-    "title": "8 Bit",
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/8bit.jpeg",
-    "text": "8-bit pixel art character sprite, retro RPG hero style, limited color palette, blocky pixelated armor and sword, classic 16x16 pixel dimensions, NES-era video game graphics"
-  }
+    {
+        "title": "Disney",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/disney.jpeg",
+        "text": "Disney animated cartoon style, vibrant and colorful, clean vector art illustration with smooth gradients, character design reminiscent of classic Disney animation from the 1990s-2000s era, soft rounded features, expressive large eyes, warm lighting, magical atmosphere, hand-drawn animation aesthetic with modern digital polish, bright saturated colors, whimsical and family-friendly, studio quality animation style",
+        "locked": false
+    },
+    {
+        "title": "Southpark",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/southpark.jpeg",
+        "text": "South Park cartoon style character, round head with dot eyes and simple line smile, construction paper cutout aesthetic, flat 2D animation style, bright primary colors with black outlines, no shadows or gradients, comedic cartoon design, simple geometric shapes",
+        "locked": false
+    },
+    {
+        "title": "Vaporwave",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/vaporwave.jpeg",
+        "text": "Portrait in vaporwave synthwave style, 1980s retrofuturistic aesthetic, purple and pink neon lighting, soft dreamy atmosphere, nostalgic 80s color grading, smooth gradient backgrounds, synthwave color palette, retro film look with soft glows",
+        "locked": false
+    },
+    {
+        "title": "Art Deco",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/artdeco.jpeg",
+        "text": "Portrait in Art Deco travel poster style, 1920s-1930s vintage advertising aesthetic, bold geometric background patterns, streamlined elegant composition, rich jewel tone color palette, stylized illustration treatment with clean angular lines, luxurious golden age poster design, sophisticated vintage travel advertisement. No text or letters ",
+        "locked": false
+    },
+    {
+        "title": "Propaganda",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/soviet.jpeg",
+        "text": "Portrait in Soviet propaganda poster style, bold revolutionary aesthetic, strong dramatic lighting with high contrast, heroic composition, vintage communist propaganda art style, powerful graphic design with striking colors, socialist realist influence, 1940s-1960s USSR poster aesthetic, inspiring and monumental feel",
+        "locked": true
+    },
+    {
+        "title": "8 Bit",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/8bit.jpeg",
+        "text": "8-bit pixel art character sprite, retro RPG hero style, limited color palette, blocky pixelated armor and sword, classic 16x16 pixel dimensions, NES-era video game graphics",
+        "locked": false
+    }
 ]
-
