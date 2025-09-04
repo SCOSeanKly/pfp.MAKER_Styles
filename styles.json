@@ -34,5 +34,11 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/8bit.jpeg",
         "text": "8-bit pixel art character sprite, retro RPG hero style, limited color palette, blocky pixelated armor and sword, classic 16x16 pixel dimensions, NES-era video game graphics",
         "locked": false
+    },
+      {
+        "title": "Pencil",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/pencil.jpeg",
+        "text": "A hand-drawn portrait in the style of a pencil sketch, with fine graphite strokes, cross-hatched shading, monochrome tones, and subtle paper texture, faithfully capturing the subject’s pose, expression, and features",
+        "locked": false
     }
 ]
