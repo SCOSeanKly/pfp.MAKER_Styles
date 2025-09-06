@@ -48,5 +48,12 @@
         "text": "Star Wars-style hologram portrait: always glowing monochrome blue, never full colour; subject must appear semi-transparent with scan lines, subtle static, and faint projection flicker; edges must glow softly and fade into the background; background must remain plain black or very dark, with no scenery or objects; the image must always look like a holographic projection from a holoprojector.",
         "locked": false,
         "hidden": true 
+    },
+     {
+        "title": "tiny.PFP",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/tinyPFP.jpeg",
+        "text": "Create a minimalist avatar portrait in the tiny.supply style: trace the exact silhouette and features from the input photo, use clean even black outlines, flat white skin (#FFFFFF), flat neutral grey background (#E7E8EA), tiny black dot eyes, simple black brows, dot/short line nose, closed mouth with soft pink lips (#F6B3BE @65%), two soft pink cheek dots (#F6B3BE @65%), flat black/grey hair fills, a soft neutral grey shadow under the chin, and absolutely no gradients, textures, or photographic detail.",
+        "locked": false,
+        "hidden": false 
     }
 ]
