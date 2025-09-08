@@ -52,7 +52,7 @@
      {
         "title": "tiny.PFP",
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/tinyPFP.jpeg",
-        "text": "Create a minimalist avatar portrait in the tiny.supply style: strictly trace the silhouette and expression from the input photo, use clean even black outlines, flat white skin (#FFFFFF), neutral grey background (#E7E8EA), hair shade must match input lightness (blonde=light grey, brown=medium grey, black=solid black), always include subtle ear detail lines and soft neutral grey chin shadow, eyes as tiny black dots, brows as simple black strokes capturing expression, nose as dot/short line, mouth always closed with soft pink lips (#F6B3BE @65%), always overlay two soft pink cheek dots (#F6B3BE @65%), and balance simplicity with enough detail so the portrait feels finished, expressive, and professional.",
+        "text": "1. Strictly trace the exact silhouette, hairline, ears, jawline, nose, lips, eyes, hairstyle, and proportions from the input photo so the likeness is unmistakable, preserving pose, head angle, gaze, and accessories. Chin and other shadowa must be drawn in light grey.  2. Render in the tiny.supply style: smooth medium black outlines with occasional breaks or dot terminals, flat fills only (skin pure white #FFFFFF, hair/facial hair black or grey with thin linear streaks following real hair flow, clothing/accessories in flat greys matching garment lightness), always include pale-pink cheek dots #F6B3BE and softly tinted lips #F6B3BE at 60–70% opacity, eyes as small black dots/almonds aligned to input, a flat grey chin/neck shadow #B8B8B8, and a neutral grey #E7E8EA background.",
         "locked": false,
         "hidden": false 
     }
