@@ -3,7 +3,10 @@
         "title": "Disney",
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/disney.jpeg",
         "text": "Disney animated cartoon style, vibrant and colorful, clean vector art illustration with smooth gradients, character design reminiscent of classic Disney animation from the 1990s-2000s era, soft rounded features, expressive large eyes, warm lighting, magical atmosphere, hand-drawn animation aesthetic with modern digital polish, bright saturated colors, whimsical and family-friendly, studio quality animation style",
-        "locked": false
+        "locked": true,
+        "isPremium": true,
+        "iapProductID": "pfpStyle_disney",
+        "hidden": false
     },
     {
         "title": "Southpark",
