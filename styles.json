@@ -127,10 +127,11 @@
         "text": "Low-poly 3D portrait style. Faceted geometric shading, polygonal surfaces, minimal smoothness. Simple triangulated forms with sharp edges and flat color faces. Modern abstract digital design aesthetic.",
         "locked": false
     },
-    {
-        "title": "Sticker",
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/sticker.jpeg",
-        "text": "Sticker decal style portrait. Bold white outlines around the subject, flat vibrant colors, subtle drop shadow to simulate sticker cut-out, clean high-contrast vector look. Fun and collectible design aesthetic.",
-        "locked": false
-    }
+ {
+    "title": "Sticker",
+    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/sticker.jpeg",
+    "text": "Sticker decal style portrait. Subject must always fit fully inside the frame — no part of the head, hair, or shoulders should extend beyond the crop. Add a bold, uniform white outline tightly following the silhouette, fully contained within the square. Use flat vibrant colors, high-contrast fills, and a subtle drop shadow inside the bounds to simulate a printed sticker cut-out. Clean, collectible, vector-style look.",
+    "locked": false
+}
+
 ]
