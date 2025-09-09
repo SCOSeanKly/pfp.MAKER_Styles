@@ -81,7 +81,7 @@
         "title": "Cyberpunk",
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/cyberpunk.jpeg",
         "text": "Cyberpunk neon portrait with futuristic dystopian aesthetic. Dark moody atmosphere with glowing neon accents in pink, purple, and cyan. High contrast lighting with holographic reflections. Tech-inspired design with glitch elements and cinematic edge.",
-        "locked": true,
+        "locked": false,
         "isPremium": false,
         "iapProductID": "pfpStyle_cyberpunk"
     },
