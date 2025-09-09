@@ -23,7 +23,7 @@
     {
         "title": "Art Deco",
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/artdeco.jpeg",
-        "text": "Portrait in Art Deco travel poster style, 1920s-1930s vintage advertising aesthetic, bold geometric background patterns, streamlined elegant composition, rich jewel tone color palette, stylized illustration treatment with clean angular lines, luxurious golden age poster design, sophisticated vintage travel advertisement. No text or letters ",
+        "text": "Portrait in Art Deco travel poster style, 1920s-1930s vintage advertising aesthetic, bold geometric background patterns, streamlined elegant composition, rich jewel tone color palette, stylized illustration treatment with clean angular lines, luxurious golden age poster design, sophisticated vintage travel advertisement. No text or letters",
         "locked": false
     },
     {
@@ -55,7 +55,7 @@
     {
         "title": "tiny.PFP",
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/tinyPFP.png",
-        "text": "1. Strictly trace the exact silhouette, hairline, ears, jawline, nose, lips, eyes, hairstyle, and proportions from the input photo so the likeness is unmistakable, preserving pose, head angle, gaze, and accessories. Chin and other shadowa must be drawn in light grey.  2. Render in the tiny.supply style: smooth medium black outlines with occasional breaks or dot terminals, flat fills only (skin pure white #FFFFFF, hair/facial hair black or grey with thin linear streaks following real hair flow, clothing/accessories in flat greys matching garment lightness), always include pale-pink cheek dots #F6B3BE and softly tinted lips #F6B3BE at 60–70% opacity, eyes as small black dots/almonds aligned to input, a flat grey chin/neck shadow #B8B8B8, and a neutral grey #E7E8EA background.",
+        "text": "Strictly trace the exact silhouette, hairline, ears, jawline, nose, lips, eyes, hairstyle, and proportions from the input photo so the likeness is unmistakable, preserving pose, head angle, gaze, and accessories. Render in the tiny.supply style: smooth medium black outlines with occasional breaks or dot terminals, flat fills only (skin pure white #FFFFFF, hair/facial hair black or grey with thin linear streaks following real hair flow, clothing/accessories in flat greys matching garment lightness), always include pale-pink cheek dots #F6B3BE and softly tinted lips #F6B3BE at 60–70% opacity, eyes as small black dots/almonds aligned to input, a flat grey chin/neck shadow #B8B8B8, and a neutral grey #E7E8EA background.",
         "locked": false,
         "hidden": false
     },
@@ -67,5 +67,76 @@
         "isPremium": true,
         "iapProductID": "pfpStyle_banksy",
         "hidden": false
+    },
+
+
+
+    {
+        "title": "Pop Art",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/popart.jpeg",
+        "text": "Pop Art portrait in Andy Warhol and Roy Lichtenstein style. Bold primary colors, halftone dots, thick black outlines, flat graphic fills, comic-style design. Use repeating patterns and strong contrast. Simplified but expressive facial features with dramatic pop culture poster feel.",
+        "locked": false
+    },
+    {
+        "title": "Anime",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/anime.jpeg",
+        "text": "Anime-style cel-shaded portrait, large expressive eyes, stylized hair with clean sharp highlights, bold line art, flat bright colors with minimal gradients, simple backgrounds, manga influence, energetic and expressive illustration style.",
+        "locked": false
+    },
+    {
+        "title": "Cyberpunk",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/cyberpunk.jpeg",
+        "text": "Cyberpunk neon portrait with futuristic dystopian aesthetic. Dark moody atmosphere with glowing neon accents in pink, purple, and cyan. High contrast lighting with holographic reflections. Tech-inspired design with glitch elements and cinematic edge.",
+        "locked": true,
+        "isPremium": true,
+        "iapProductID": "pfpStyle_cyberpunk"
+    },
+    {
+        "title": "Watercolour",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/watercolour.jpeg",
+        "text": "Soft watercolour painting portrait with delicate pastel washes, subtle paper texture, flowing gradients, and organic brush edges. Gentle diffusion of colors blending naturally. Light, airy, hand-painted aesthetic with artistic charm.",
+        "locked": false
+    },
+    {
+        "title": "LEGO",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/lego.jpeg",
+        "text": "LEGO minifigure portrait with plastic sheen, cylindrical head shape, printed facial features, blocky proportions, bold clean colors, toy-like glossy texture, playful and instantly recognisable LEGO character style.",
+        "locked": false
+    },
+    {
+        "title": "Van Gogh",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/vangogh.jpeg",
+        "text": "Portrait painted in Van Gogh's post-impressionist style. Expressive swirling brush strokes, vibrant layered colors, heavy impasto texture, emotional depth, bold movement in the background. Thick expressive paint style with painterly energy.",
+        "locked": false
+    },
+    {
+        "title": "Cubism",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/cubism.jpeg",
+        "text": "Cubist portrait inspired by Picasso and Braque. Angular geometric shapes, multiple perspectives, abstract fragmented features. Muted earthy tones with occasional bright highlights. Deconstructed yet recognisable face.",
+        "locked": false
+    },
+    {
+        "title": "Ukiyo-e",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/ukiyoe.jpeg",
+        "text": "Japanese Ukiyo-e woodblock print style portrait. Flat bold colors, stylised flowing lines, delicate patterns, traditional 18th-19th century composition. Clean outlines with minimal shading. Cultural heritage aesthetic.",
+        "locked": false
+    },
+    {
+        "title": "Glitch",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/glitch.jpeg",
+        "text": "Glitch effect digital portrait. RGB color channel shifts, pixel noise, distorted scan lines, VHS tape texture, fragmented digital look. Retro-futuristic aesthetic with broken video artefacts.",
+        "locked": false
+    },
+    {
+        "title": "Low Poly",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/lowpoly.jpeg",
+        "text": "Low-poly 3D portrait style. Faceted geometric shading, polygonal surfaces, minimal smoothness. Simple triangulated forms with sharp edges and flat color faces. Modern abstract digital design aesthetic.",
+        "locked": false
+    },
+    {
+        "title": "Sticker",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/sticker.jpeg",
+        "text": "Sticker decal style portrait. Bold white outlines around the subject, flat vibrant colors, subtle drop shadow to simulate sticker cut-out, clean high-contrast vector look. Fun and collectible design aesthetic.",
+        "locked": false
     }
 ]
