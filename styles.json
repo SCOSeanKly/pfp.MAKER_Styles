@@ -56,6 +56,27 @@
         "locked": false,
         "hidden": false
     },
+     {
+        "title": "Outline Art",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/NONE.png",
+        "text": "Create a clean, minimalist line-art profile portrait in a consistent, icon-like style. Always 3/4 to the camera and either gazing up or down. Never a flat side portrait. Background should be a very light gray. Always as though hand drawn and not computer generated.",
+        "locked": false,
+        "hidden": false
+    },
+     {
+        "title": "Bold Blue",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/NONE.png",
+        "text": "Create a vibrant Anime Character style that can be used as a profile picture. Capture the expression and facial features. Always as though hand drawn and not computer generated.",
+        "locked": false,
+        "hidden": false
+    },
+     {
+        "title": "Cartoon",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/NONE.png",
+        "text": " Create a stylised profile portrait with a soft, cartoon-inspired look. Always as though hand drawn and not computer generated",
+        "locked": false,
+        "hidden": false
+    },
     {
         "title": "Banksy",
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/banksy.jpeg",
