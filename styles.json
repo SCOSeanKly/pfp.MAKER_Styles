@@ -40,14 +40,14 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/pencil.jpeg",
         "text": "A hand-drawn portrait in the style of a pencil sketch, with fine graphite strokes, cross-hatched shading, monochrome tones, and subtle paper texture, faithfully capturing the subject’s pose, expression, and features",
         "locked": false,
-        "hidden": true 
+        "hidden": false 
     },
     {
         "title": "Hologram",
         "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/hologram.jpeg",
         "text": "Star Wars-style hologram portrait: always glowing monochrome blue, never full colour; subject must appear semi-transparent with scan lines, subtle static, and faint projection flicker; edges must glow softly and fade into the background; background must remain plain black or very dark, with no scenery or objects; the image must always look like a holographic projection from a holoprojector.",
         "locked": false,
-        "hidden": true 
+        "hidden": false 
     },
      {
         "title": "tiny.PFP",
