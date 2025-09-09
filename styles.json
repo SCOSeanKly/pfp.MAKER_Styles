@@ -55,5 +55,11 @@
         "text": "1. Strictly trace the exact silhouette, hairline, ears, jawline, nose, lips, eyes, hairstyle, and proportions from the input photo so the likeness is unmistakable, preserving pose, head angle, gaze, and accessories. Chin and other shadowa must be drawn in light grey.  2. Render in the tiny.supply style: smooth medium black outlines with occasional breaks or dot terminals, flat fills only (skin pure white #FFFFFF, hair/facial hair black or grey with thin linear streaks following real hair flow, clothing/accessories in flat greys matching garment lightness), always include pale-pink cheek dots #F6B3BE and softly tinted lips #F6B3BE at 60–70% opacity, eyes as small black dots/almonds aligned to input, a flat grey chin/neck shadow #B8B8B8, and a neutral grey #E7E8EA background.",
         "locked": false,
         "hidden": false 
-    }
+    },
+    {
+    "title": "Stencil Street Art",
+    "image": "https://raw.githubusercontent.com/SCOSeanKly/pfp.MAKER_Styles/main/images/stencil.jpeg",
+    "text": "Stencil-style street art portrait with bold high-contrast black and white shapes sprayed onto a rough concrete wall background. Use sharp silhouettes and clean outlines with subtle spray-paint textures. Fill areas with flat tones only: pure black and white with occasional mid-grey speckles. Simplify facial features: eyes as dark shapes, nose as short shadow marks. Add one vivid accent color only (such as red lips or soft pink cheek dots #F6B3BE). The overall look should feel like a crisp stencil mural — urban, rebellious, but still clean and recognisable.",
+    "locked": false
+}
 ]
